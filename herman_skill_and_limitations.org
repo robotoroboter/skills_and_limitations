@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       12cc2ba6-4359-4695-97ba-f784ec1fe83f
+:END:
+#+title: my skills and limitations
+#+filetags: :me:
+* skills
++ programming :: gennerally, I can craft a working system.
++ learning :: I adapt to a new concept/tool/routine really quickly
++ focused :: I'm easily getting in a state of high focus.
++ tool familiarness ::
+  + clojure, emacs-lisp :: faimiliar. I could get to most LISPs really quickly.
+  + c(++), java, python, ECMAScript :: I could read, write and debug.
+  + git :: basic usage
+  + remote server commands :: basic usage (need references).
+  + emacs :: very much (still use references a lot)
+  + vim :: basic usage, evil-compatiable ones.
+  + emacs-based source code editing and debugging :: very much
+  + terminal working environment :: basic usage
+* interest
++ information collection with automation :: I already have some ideas
++ LISP :: I want to use LISP where possible
++ language :: I'm interested in making a new domain-specific programming language(like as an extension language)
++ extensible and specific :: I generally want to write software that is designed to be extensible so that user could modify flexibly to their needs, yet specific enough(with functions) to be powerful.
++ try devop ideas in the group project
++ command-line tool interface :: I'm interested to develop software with a command-line tool interface.
+
+
+
++ productivity :: like scheduling, information gathering
++ note-taking
++ music :: something to do with music, like generation or visualization.
++ game
+
+* limitations
++ estimating :: I don't estimate the scale well, so I might end up developing a prototype with too much work to be done by DDL
+  I fix this by using some heuristic estimation algorithms(like break things down to roughly 30m works.).
++ distraction :: I'm easy to got distract, so there's chance I end up building a subsystem that we don't really need/use, and too exausted to have any valid idea.
+  I fix this by make plan and stick to them.
+  A (peer-)supervisor who challenge me would be another good fix.
++ social :: I don't really have good social instincts, nor willing to invest very much time in that, so I treat people with equal respect and my own way(which could be described as kind of indifferent), which may be counter-intuitive to certain social culture.
