@@ -9,7 +9,7 @@ A summary for group software project
 * Linux - The system I learn to use which is much more difficult than Windows. My goal is to be able to easily program software on that system, and I already learned a lot. I am also good at troubleshooting problems on that system - Many times I managed to solve some problems after hours or days of struggle, doing deep research on the internet, which is not easy due to the system's little popularity
 * SQL - Basic usage
 * Git - Basic usage
-* Fast research
+* Fast research - I am good at googling stuff, usage of technologies and solutions to problems
 * Vim - Basic usage
 * 2d and 3d graphics design - I can both edit 2d graphics to some point and create 3d models
 
