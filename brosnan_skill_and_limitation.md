@@ -16,7 +16,7 @@
 * Experimentations - Enjoy experimenting on websites, software programmes and sql databases
 * A.I - Love the concept of automations e.g., Automated Music Generation, AI Trading Stocks and recently CHATGPT
 
-* GROUP SOFTWARE PROJECT
+GROUP SOFTWARE PROJECT
 + Would like to create a software that students can use
 + Budget Tracker, Study Buddy
 
