@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       12cc2ba6-4359-4695-97ba-f784ec1fe83f
 :END:
-#+title: my skills and limitations
+#+title: Herman's skills and limitations
 #+filetags: :me:
 * skills
 + programming :: gennerally, I can craft a working system.
