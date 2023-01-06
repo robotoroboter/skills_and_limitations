@@ -38,3 +38,4 @@
   I fix this by make plan and stick to them.
   A (peer-)supervisor who challenge me would be another good fix.
 + social :: I don't really have good social instincts, nor willing to invest very much time in that, so I treat people with equal respect and my own way(which could be described as kind of indifferent), which may be counter-intuitive to certain social culture.
++ experience :: I'm not experienced to large project. my largest project is a single-file emacs-lisp extension with 648 lines
